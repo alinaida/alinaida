@@ -1,6 +1,6 @@
 # Hi there, I'm Alina 👋
 
-🎓 I'm a 2nd-year Master's student in Computer Science, currently pursuing my passion for technology and software development.
+🎓 I'm a Master's student in Computer Science, currently pursuing my passion for technology and software development.
 
 🌱 I'm currently learning **C#** and striving to enhance my proficiency in **JavaScript**.
 
